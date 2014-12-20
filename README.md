@@ -1,0 +1,4 @@
+rmdirectory
+===========
+
+rm dir
